@@ -1,4 +1,4 @@
-## # WWDC22 Digital Lounges Dump
+## WWDC22 Digital Lounges Dump
 
 This is a dump of the Slack channels from the Digital Lounges of WWDC22, to be used for reference purposes.
 
@@ -14,7 +14,7 @@ This is a dump of the Slack channels from the Digital Lounges of WWDC22, to be u
 
 * Some channels may be missing
 * Threads are shown inline
-* Some external links for images or videos were not resolved
+* Some external links for images or videos are not included
 
 ## How has the dump been obtained?
 
